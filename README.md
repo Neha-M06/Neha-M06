@@ -40,8 +40,8 @@
 # 🌟 Projects
 
 ### 🛒 E-Commerce Website
-Frontend shopping website with modern UI design
+Full-stack DBMS with Node.js,Express.js,MongoDB
 
 ### 🧠 LeetCode Pathfinder
-Recommendation system for LeetCode problems using Python
+Recommendation system for LeetCode problems using Python and Flask
 
