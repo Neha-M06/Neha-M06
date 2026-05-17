@@ -12,7 +12,7 @@
 
 # ✨ About Me ✨
 
-👩‍🎓 Final Year Computer Science Engineering Student at SJC  
+👩‍🎓 Final Year Computer Science Engineering Student at SJCE 
 💡 Passionate about Web Development and creating responsive websites  
 ✅ Learned Full Stack Development  
 🎯 Interested in UI/UX and modern web technologies  
